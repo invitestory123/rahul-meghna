@@ -1,17 +1,19 @@
-# Editing Guide — Lantern Madurai (Dr. Rahul Vishnu G & Dr. Meghana E)
+# Editing Guide — Lantern Madurai (Dr. Rahul Vishnu G & Dr. Meghana Kattimani)
 
-Customer customization for `lantern-madurai` (Madurai lanterns & temple theme with GSAP parallax, ring ceremony photo, Ghibli haldi illustration, and Ed Sheeran - Perfect audio).
+Customer customization for `lantern-madurai` (Madurai lanterns & temple theme with GSAP parallax, ring ceremony photo, Ghibli haldi illustration, and Annul Maelae background music).
 
 ## Customer Data
 
 Configured in `editable/wedding-data.js`:
-- **Couple**: Dr. Rahul Vishnu G & Dr. Meghana E
+- **Couple**: Dr. Rahul Vishnu G & Dr. Meghana Kattimani
 - **Events**:
-  - Haldi: 11 December 2026 (10:00 AM)
-  - Reception: 12 December 2026 (6:30 PM)
-  - Muhartham: 13 December 2026 (9:00 AM)
+  - Haldi: 11 December 2026 (10:00 AM) · T.S. Rajam Auditorium, Madurai
+  - Reception: 12 December 2026 (6:30 PM) · T.S. Rajam Auditorium, Madurai
+  - Muhartham: 13 December 2026 (9:00 AM) · T.S. Rajam Auditorium, Madurai
+  - Reception: 16 December 2026 (7:00 PM) · Amdihal, Raichur
 - **Venue**: T.S. Rajam Auditorium, SH 72, Chinna Chokkikulam, Madurai, Tamil Nadu 625002
-- **Audio**: Ed Sheeran - Perfect (`editable/assets/perfect.mp3`)
+- **Audio**: Annul Maelae - Violin Cover from 0:16 (`editable/assets/bgm.mp3`)
+- **Footer**: "Rahul and Meghana" · 13 December 2026 · Madurai
 - **Photos**:
   - Ring ceremony photo: `editable/assets/couple-ring-ceremony.jpg`
   - Ghibli Haldi artwork: `editable/assets/haldi-ceremony-ghibli.png`

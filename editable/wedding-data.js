@@ -6,8 +6,8 @@
 window.WEDDING_DATA = {
   couple: {
     groom: "Dr. Rahul Vishnu G",
-    bride: "Dr. Meghana E",
-    dateDisplay: "11 – 13 · 12 · 2026",
+    bride: "Dr. Meghana Kattimani",
+    dateDisplay: "13 · 12 · 2026",
     city: "Madurai, Tamil Nadu"
   },
 
@@ -56,6 +56,14 @@ window.WEDDING_DATA = {
       venue: "T.S. Rajam Auditorium, Madurai",
       note: "The sacred moment two souls and families become one.",
       icon: "❧"
+    },
+    {
+      name: "Reception",
+      date: "16 December 2026",
+      time: "7:00 PM",
+      venue: "Amdihal, Raichur",
+      note: "Continuing our celebrations with family and friends.",
+      icon: "✧"
     }
   ],
 
@@ -67,7 +75,8 @@ window.WEDDING_DATA = {
   },
 
   footer: {
-    dateLine: "11 – 13 December 2026 · Madurai"
+    names: "Rahul and Meghana",
+    dateLine: "13 December 2026 · Madurai"
   },
 
   assets: {
@@ -77,6 +86,6 @@ window.WEDDING_DATA = {
     storyImage: "./editable/assets/couple-ring-ceremony.jpg",
     ceremonyImage: "./editable/assets/haldi-ceremony-ghibli.png",
     footerImage: "./editable/assets/og-aarav-ananya.png",
-    audio: "./editable/assets/perfect.mp3"
+    audio: "./editable/assets/bgm.mp3"
   }
 };
