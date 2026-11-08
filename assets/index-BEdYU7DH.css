@@ -14,15 +14,5 @@
 .music-toggle-btn:not(.playing) .music-icon-paused{display:block}
 @keyframes musicDiscSpin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
 
-@media (min-width: 860px) {
-  .footer-copy h2, .footer-copy span {
-    display: none;
-  }
-  .footer-copy p {
-    font-size: 32px;
-    margin-bottom: 24px;
-    text-shadow: 0 2px 10px rgba(0,0,0,0.85);
-  }
-}
 
 
