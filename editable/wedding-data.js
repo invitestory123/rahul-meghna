@@ -36,8 +36,8 @@ window.WEDDING_DATA = {
     {
       name: "Haldi",
       date: "11 December 2026",
-      time: "10:00 AM",
-      venue: "T.S. Rajam Auditorium, Madurai",
+      time: "5:30 PM",
+      venue: "Sangeeth Wedding Village, Madurai",
       note: "Sunshine, turmeric, and the people we love.",
       icon: "✦"
     },
@@ -56,14 +56,6 @@ window.WEDDING_DATA = {
       venue: "T.S. Rajam Auditorium, Madurai",
       note: "The sacred moment two souls and families become one.",
       icon: "❧"
-    },
-    {
-      name: "Reception",
-      date: "16 December 2026",
-      time: "7:00 PM",
-      venue: "Amdihal, Raichur",
-      note: "Continuing our celebrations with family and friends.",
-      icon: "✧"
     }
   ],
 
