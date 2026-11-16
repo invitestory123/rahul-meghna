@@ -25,8 +25,13 @@ Customer replacement files in `editable/assets/`:
 - `editable/assets/invitation-reference.png` — Hero illustrated scene
 - `editable/assets/couple-ring-ceremony.jpg` — Ring exchange ceremony photo
 - `editable/assets/haldi-ceremony-ghibli.png` — Haldi Ghibli illustration
-- `editable/assets/og-aarav-ananya.png` — Footer art & social share image
-- `editable/assets/perfect.mp3` — Ed Sheeran "Perfect" background music
+- `editable/assets/og-aarav-ananya.png` — Footer art (clean background without baked-in names)
+- `editable/assets/og-image.png` — Open Graph 1200x630 social share card for WhatsApp, Facebook, iMessage, Twitter
+- `editable/assets/logo.png` — Wedding monogram logo (512x512)
+- `editable/assets/apple-touch-icon.png` — Apple touch icon (180x180)
+- `editable/assets/favicon-32x32.png` & `favicon.ico` — Favicons
+- `editable/assets/bgm.mp3` — Annul Maelae background music (violin cover from 0:16)
+- `editable/assets/perfect.mp3` — Ed Sheeran "Perfect" background music (alternative)
 
 ## Testing
 
