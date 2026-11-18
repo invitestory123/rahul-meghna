@@ -26,7 +26,8 @@ Customer replacement files in `editable/assets/`:
 - `editable/assets/couple-ring-ceremony.jpg` — Ring exchange ceremony photo
 - `editable/assets/haldi-ceremony-ghibli.png` — Haldi Ghibli illustration
 - `editable/assets/og-aarav-ananya.png` — Footer art (clean background without baked-in names)
-- `editable/assets/og-image.png` — Open Graph 1200x630 social share card for WhatsApp, Facebook, iMessage, Twitter
+- `editable/assets/og-image.jpg` — Open Graph 1200x630 social share card for WhatsApp, Facebook, iMessage, Twitter (optimized JPEG < 250KB)
+- `editable/assets/og-image.png` — Open Graph high-resolution PNG source
 - `editable/assets/logo.png` — Wedding monogram logo (512x512)
 - `editable/assets/apple-touch-icon.png` — Apple touch icon (180x180)
 - `editable/assets/favicon-32x32.png` & `favicon.ico` — Favicons

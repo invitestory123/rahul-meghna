@@ -78,7 +78,7 @@ window.WEDDING_DATA = {
     storyImage: "./editable/assets/couple-ring-ceremony.jpg",
     ceremonyImage: "./editable/assets/haldi-ceremony-ghibli.png",
     footerImage: "./editable/assets/og-aarav-ananya.png",
-    ogImage: "./editable/assets/og-image.png",
+    ogImage: "./editable/assets/og-image.jpg",
     logo: "./editable/assets/logo.png",
     audio: "./editable/assets/bgm.mp3"
   }
